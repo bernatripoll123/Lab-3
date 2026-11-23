@@ -1,6 +1,6 @@
 """
 Connect 4 — Template for Lab2 (Introduction to Programming)
-
+hola
 Submission:
 - Single python file: PNNN_TNN_P3_U1_U2.py
 - Must run locally with: `python PNNN_TNN_P2_U1_U2.py`
